@@ -1,3 +1,3 @@
-def hello(){
+def world(){
 	echo("Hello World!")
 }
