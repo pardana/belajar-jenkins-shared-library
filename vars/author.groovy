@@ -1,11 +1,11 @@
 def call(){
-    "Aditria Pardana - iApptech Indonesia"
+   return "Aditria Pardana - iApptech Indonesia"
 }
 
 def name(){
-    "Aditria Pardana"
+    return "Aditria Pardana"
 }
 
 def channel(){
-    "iAppTech Indonesia"
+    return "iAppTech Indonesia"
 }
