@@ -31,22 +31,6 @@ def call() {
                     }
                 }
             }
-
-            stage('Hello Groovy') {
-                steps {
-                    script {
-                        Output.hello(this, 'Groovy')
-                    }
-                }
-            }
-
-            stage('Hello World') {
-                steps {
-                    script {
-                        hello.world()
-                    }
-                }
-            }
         }
     }
 }
